@@ -1,0 +1,33 @@
+body {
+      font: 400 15px Tahoma, sans-serif;
+      line-height: 1.8;
+      color: #ffffff;
+      background-color: #000000;
+  }
+
+  h5,h3{
+    font-family: cursive, Verdana, sans-serif;
+    background-color:#FF5733; 
+    color: #fff;
+    text-transform: uppercase;
+    padding: 2px;
+    text-align: left;
+}
+
+p{
+    font-family: cursive, Verdana, sans-serif;
+    background-color:#FF5733; 
+    color: #fff;
+    text-transform: uppercase;
+    padding: 2px;
+    text-align: left;
+}
+table
+{
+    font-family: cursive, Verdana, sans-serif;
+    background-color:#FF5733; 
+    color: #fff;
+    text-transform: uppercase;
+    padding: 2px;
+    text-align: left;
+}
