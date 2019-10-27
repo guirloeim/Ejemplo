@@ -10,7 +10,7 @@ body {
     background-color:#FF5733; 
     color: #fff;
     text-transform: uppercase;
-    padding: 2px;
+    padding: 2px 2px;
     text-align: left;
 }
 
@@ -19,15 +19,14 @@ p{
     background-color:#FF5733; 
     color: #fff;
     text-transform: uppercase;
-    padding: 2px;
+    padding: 2px 2px;
     text-align: left;
 }
-table
-{
+link{
     font-family: cursive, Verdana, sans-serif;
     background-color:#FF5733; 
     color: #fff;
     text-transform: uppercase;
-    padding: 2px;
+    padding: 2px 2px;
     text-align: left;
 }
